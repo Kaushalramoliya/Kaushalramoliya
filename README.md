@@ -1,7 +1,7 @@
+![Header](kaushal_github_.png)
+
 <h1 align="center">Hi 👋, I'm Kaushal Ramoliya</h1>
 <h3 align="center">🚀 Passionate Developer | ⚡ Building Scalable Solutions | 🌍 Web Enthusiast</h3>
-
-![Header](kaushal_github_.png)
 
 <h2 align="left">🧑🏻‍🎓 About Me</h2>
   
@@ -22,9 +22,6 @@
   📩 Let's Connect! I'm always open to discussing new projects, collaborations, or tech innovations. Feel free to connect and explore ideas together! 🤝
 </p
 
-
-
-
 <br>
 <h2 align="lef">🌐 Connect with me</h2>
 <p align="center">
@@ -36,9 +33,6 @@
     </a>
   </p>
   
-
-
-
 <h2 align="left">💻Languages and Tools:</h2>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">

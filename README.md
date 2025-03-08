@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushal Ramoliya</h1>
 <h3 align="center">🚀 Passionate Developer | ⚡ Building Scalable Solutions | 🌍 Web Enthusiast</h3>
 
-![Header](kaushal_github.png)
+![Header](kaushal_github_.png)
 
 <h2 align="left">🧑🏻‍🎓 About Me</h2>
   

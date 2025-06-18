@@ -7,7 +7,7 @@
   
 <p align="left">
   <img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="250">
-👋 I am Kaushal Ramoliya, a pre-final year Computer Science Engineering student, passionate about full-stack web development, mobile app development, and emerging technologies like AI. With a strong foundation in both frontend and backend development, I specialize in crafting scalable, efficient, and innovative solutions.
+👋 I am Kaushal Ramoliya, a final year Computer Science Engineering student, passionate about full-stack web development, mobile app development, and emerging technologies like AI. With a strong foundation in both frontend and backend development, I specialize in crafting scalable, efficient, and innovative solutions.
 </p>
 
 <h3 align="left">💻 Technical Expertise</h3>
@@ -83,11 +83,6 @@
 </p>
 
 <h2 align="left">⚡️Stats</h2>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushalramoliya&show_icons=true&locale=en&layout=compact" alt="kaushalramoliya" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushalramoliya&show_icons=true&locale=en" alt="kaushalramoliya" />
-</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalramoliya&" alt="kaushalramoliya" />

@@ -1,4 +1,4 @@
-![Header](kaushal_github_.png)
+![Header](kaushal-github.png)
 
 <h1 align="center">Hi 👋, I'm Kaushal Ramoliya</h1>
 <h3 align="center">🚀 Passionate Developer | ⚡ Building Scalable Solutions | 🌍 Web Enthusiast</h3>
